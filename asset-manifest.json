@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/test-react/static/css/main.72f4c224.chunk.css",
+    "main.js": "/test-react/static/js/main.67ee6add.chunk.js",
+    "main.js.map": "/test-react/static/js/main.67ee6add.chunk.js.map",
+    "runtime-main.js": "/test-react/static/js/runtime-main.29d6dff4.js",
+    "runtime-main.js.map": "/test-react/static/js/runtime-main.29d6dff4.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/test-react/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9c6f2592.chunk.js": "/test-react/static/js/2.9c6f2592.chunk.js",
+    "static/js/2.9c6f2592.chunk.js.map": "/test-react/static/js/2.9c6f2592.chunk.js.map",
+    "index.html": "/test-react/index.html",
+    "precache-manifest.f116f1e58012f113e2b2cea551ce9122.js": "/test-react/precache-manifest.f116f1e58012f113e2b2cea551ce9122.js",
+    "service-worker.js": "/test-react/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/test-react/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.72f4c224.chunk.css.map": "/test-react/static/css/main.72f4c224.chunk.css.map",
+    "static/js/2.9c6f2592.chunk.js.LICENSE.txt": "/test-react/static/js/2.9c6f2592.chunk.js.LICENSE.txt",
+    "static/media/EmployeeTracker.gif": "/test-react/static/media/EmployeeTracker.b390bde5.gif",
+    "static/media/LauraLaraAmaya_Resume.pdf": "/test-react/static/media/LauraLaraAmaya_Resume.4b8a998e.pdf",
+    "static/media/Workout-tracker.gif": "/test-react/static/media/Workout-tracker.51d2dc2d.gif",
+    "static/media/style.css": "/test-react/static/media/background1.1f719141.jpg",
+    "static/media/birthday.gif": "/test-react/static/media/birthday.c528a154.gif",
+    "static/media/burger.gif": "/test-react/static/media/burger.81304af1.gif",
+    "static/media/employee-directory.gif": "/test-react/static/media/employee-directory.56a3d8d3.gif",
+    "static/media/fitness-tracker.gif": "/test-react/static/media/fitness-tracker.182881ae.gif",
+    "static/media/laura1.jpg": "/test-react/static/media/laura1.ad45e2b1.jpg",
+    "static/media/notes.gif": "/test-react/static/media/notes.079882ff.gif",
+    "static/media/planner.gif": "/test-react/static/media/planner.1a3a635e.gif",
+    "static/media/weather.gif": "/test-react/static/media/weather.d9b815b0.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29d6dff4.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9c6f2592.chunk.js",
+    "static/css/main.72f4c224.chunk.css",
+    "static/js/main.67ee6add.chunk.js"
+  ]
+}
